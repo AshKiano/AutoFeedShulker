@@ -1,0 +1,10 @@
+name: AutoFeedShulker
+version: '1.2'
+main: com.ashkiano.autofeedshulker.AutoFeedShulker
+api-version: '1.16'
+author: AshKiano
+description: Plugin for autofeeding using a special shulker box
+commands:
+  giveshulker:
+    description: Gives the player a special auto-feeding shulker box
+    usage: /<command>

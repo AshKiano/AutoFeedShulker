@@ -1,0 +1,16 @@
+com\ashkiano\autofeedshulker\AutoFeedShulker.class
+com\ashkiano\autofeedshulker\Metrics$CustomChart.class
+com\ashkiano\autofeedshulker\Metrics$JsonObjectBuilder.class
+com\ashkiano\autofeedshulker\AutoFeedShulkerCommand.class
+com\ashkiano\autofeedshulker\Metrics.class
+com\ashkiano\autofeedshulker\Metrics$DrilldownPie.class
+com\ashkiano\autofeedshulker\Metrics$AdvancedPie.class
+com\ashkiano\autofeedshulker\Metrics$MetricsBase.class
+com\ashkiano\autofeedshulker\Metrics$1.class
+com\ashkiano\autofeedshulker\Metrics$AdvancedBarChart.class
+com\ashkiano\autofeedshulker\Metrics$SimplePie.class
+com\ashkiano\autofeedshulker\AutoFeedShulker$1.class
+com\ashkiano\autofeedshulker\Metrics$SingleLineChart.class
+com\ashkiano\autofeedshulker\Metrics$SimpleBarChart.class
+com\ashkiano\autofeedshulker\Metrics$JsonObjectBuilder$JsonObject.class
+com\ashkiano\autofeedshulker\Metrics$MultiLineChart.class
