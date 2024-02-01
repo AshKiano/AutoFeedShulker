@@ -43,7 +43,7 @@ public class AutoFeedShulker extends JavaPlugin implements Listener {
 
         Metrics metrics = new Metrics(this, 19418);
 
-        this.getLogger().info("Thank you for using the AutoFeedShulker plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://paypal.me/josefvyskocil");
+        this.getLogger().info("Thank you for using the AutoFeedShulker plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com");
 
         checkForUpdates();
     }
